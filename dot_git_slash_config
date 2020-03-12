@@ -8,6 +8,6 @@
 [remote "origin"]
 	url = git@github.com:merriam/zeit_test.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
+[branch "master"  ]
      remote = origin
 	 merge = refs/heads/master
